@@ -14,9 +14,9 @@ author: ddhaha
 navbar-links:
   HOME: "home"
   RESEARCH:
-    - Area1: "https://beautifuljekyll.com"
-    - Area2: "https://www.markdowntutorial.com/"
-    - Area3: 
+  #  - Area1: "https://beautifuljekyll.com"
+  #  - Area2: "https://www.markdowntutorial.com/"
+  #  - Area3: 
   CONTACT: "https://deanattali.com"
   
 
